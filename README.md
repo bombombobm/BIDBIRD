@@ -31,3 +31,12 @@ Node.js Project (2024.04.25. ~ 2024.05.22)</p>
    <li>마이페이지를 통한 내 경매 내역 및 정보 확인</li>
    <li>고객센터를 통한 사용자 문의 대응 및 CS 처리</li>
 </ul>
+
+<br>
+
+<h2>참조</h2>
+
+시연영상 <br>
+https://youtu.be/xKjk8OuR-o4?feature=shared <br><br>
+상세내용 <br>
+https://burnt-mozzarella-745.notion.site/3-Node-js-React-c839bb7d11e743de9aad90a6664a7015?pvs=74
